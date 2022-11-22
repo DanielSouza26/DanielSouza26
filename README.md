@@ -1,4 +1,4 @@
-<img src="https://giphy.com/clips/studiosoriginals-sleep-tired-sleepy-u2wg2uXJbHzkXkPphr"/>
+<img src="https://i.giphy.com/media/u2wg2uXJbHzkXkPphr/200w.gif" width="400" height="300"/>
 
 
 <h1 align="center">Hello, I'am <i>Daniel</i><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></a> 😃️</h1>

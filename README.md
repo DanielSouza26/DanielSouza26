@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.tenor.com/images/6cfb8e5e2c95cb225cedf236ffcb2ac6/tenor.gif" width="900" height="400"/>
+<img src="[https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="900" height="400"/>
 </div>
 
 <h1 align="center">Hello, I'am <i>Daniel</i><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></a> 😃️</h1>

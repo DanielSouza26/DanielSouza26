@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif](https://s2.glbimg.com/XyEn6eaG4htsvXND9aY3yoTkuEQ=/0x0:750x796/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/3/o/h0h8kXSnqqr3O0YC9k0A/vampeta.jfif)" width="900" height="400"/>
+<img src="https://s2.glbimg.com/XyEn6eaG4htsvXND9aY3yoTkuEQ=/0x0:750x796/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/3/o/h0h8kXSnqqr3O0YC9k0A/vampeta.jfif" width="900" height="400"/>
 </div>
 
 <h1 align="center">Hello, I'am <i>Daniel</i><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></a> 😃️</h1>
